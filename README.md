@@ -41,7 +41,7 @@
 ## 📁 Recent Projects
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **slime jump** | 점프점프 | unity | [View](https://github.com/...) |
+| **slime jump** | 점프점프 | unity | [View](https://github.com/yeonwoo9010-ship-it/slime-jump) |
 | **pinball** | 힐링 | unity | [View](https://github.com/...) |
 
 ---
